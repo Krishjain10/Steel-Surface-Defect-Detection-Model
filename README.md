@@ -1,4 +1,4 @@
-# Steel Surface Defect Detection — Submission
+# Steel Surface Defect Detection
 
 > **Fine-tuned YOLOv8n (Ultralytics) on Kaggle T4 GPU, 50 epochs, seed=42.**
 
